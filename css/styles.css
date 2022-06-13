@@ -544,6 +544,10 @@ address .footer-link {
   background-color: #ffffff1a;
 }
 
+.footer .social-link-icon{
+  fill: #FFF;
+}
+
 .footer .social-link-address:hover,
 .footer .social-link-address:focus {
   background-color: var(--hover-color);
